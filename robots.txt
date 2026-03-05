@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://persistent-ai.com/sitemap.xml
